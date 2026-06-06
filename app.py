@@ -31,26 +31,28 @@ Puedes utilizar los siguientes filtros para analizar el dataset.
 Los gráficos se actualizarán automáticamente según los filtros seleccionados.
                     """)
 
-columna_filtro = st.sidebar.selectbox("Selecciona una columna para filtrar", options=df.columns)
+columna_filtro = st.sidebar.selectbox("Selecciona una columna para filtrar", options=col_numericas)
 
 
 df_filtrado = df.copy()
 # Filtrado categórico
-for col in col_numericas:
-    min_val = float(df[col].min())
-    max_val = float(df[col].max())
+# Obtener min y max SOLO de la columna elegida
+min_val = float(df[columna_filtro].min())
+max_val = float(df[columna_filtro].max())
 
-    rango = st.sidebar.slider(
-        f"{col}",
-        min_value=min_val,
-        max_value=max_val,
-        value=(min_val, max_val)
-    )
+# Slider dinámico
+rango = st.sidebar.slider(
+    f"{columna_filtro}",
+    min_value=min_val,
+    max_value=max_val,
+    value=(min_val, max_val)
+)
 
-    df_filtrado = df_filtrado[
-        (df_filtrado[col] >= rango[0]) & 
-        (df_filtrado[col] <= rango[1])
-    ]
+# Aplicar filtro
+df_filtrado = df_filtrado[
+    (df_filtrado[columna_filtro] >= rango[0]) &
+    (df_filtrado[columna_filtro] <= rango[1])
+]
 
 # Fitlrado numérico
 for col in col_categoricas:
@@ -68,6 +70,7 @@ st.subheader("Datos filtrados")
 st.write(f'Cantidad de registros después del filtrado: {len(df_filtrado)}')
 st.dataframe(df_filtrado)
 
+# Estadísticas descriptivas para variables numéricas
 col_num_filtradas =  df_filtrado[col_numericas]
 resumen = pd.DataFrame({
     "Columna": col_num_filtradas.columns,
@@ -84,17 +87,20 @@ resumen = pd.DataFrame({
 st.subheader("Resumen estadístico de las variables numéricas")
 st.dataframe(resumen)
 
+# Columnas que se pueden usar para el eje x del scatterplot
 columnas_scatter_x = ["dias_hasta_registro", "Monto USD", "Sucursal", "Vendedor", "Mensual"]
 
-
-st.subheader("Gráficos de distribución")
+# Gráficos dinámicos
+st.subheader("Gráficos dinámicos")
 if df_filtrado.empty:
     st.warning("No hay datos para mostrar. Ajusta los filtros para ver los gráficos.")
 else:
+    # Histogramas para variables numéricas
     for col in col_numericas:
         fig = px.histogram(df_filtrado, x=col, nbins=20, title=f"Distribución de {col}")
         st.plotly_chart(fig, use_container_width=True)
 
+    # Scatter plot
     columna_x = st.selectbox("Selecciona la variable para el eje X del scatter plot", options=columnas_scatter_x)
     columna_y = st.selectbox("Selecciona la variable para el eje Y del scatter plot", options=col_numericas)
     fig_scatter = px.scatter(df_filtrado, x=columna_x, y=columna_y, title=f"Scatter plot: {columna_x} vs {columna_y}")
