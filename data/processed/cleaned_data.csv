@@ -1,0 +1,226 @@
+Fecha,Sucursal,Producto,Monto USD,Vendedor,Estado App,Fecha Registro en la App,estado_mora,Mensual
+2025-01-01,Maldonado,Préstamo Automotor,5104.0,A3,Registrado,2025-01-07,Cobrado,2025-01
+2025-01-01,Salto,Préstamo Hipotecario,252570.0,S1,Registrado,2025-01-04,En Mora,2025-01
+2025-05-01,Lavalleja,Préstamo Consumo,2329.0,V2,Registrado,2025-05-07,Cobrado,2025-05
+2025-07-01,Maldonado,Préstamo Automotor,6623.0,A1,Registrado,2025-07-04,En Mora,2025-07
+2025-07-01,Montevideo,Préstamo Consumo,3761.0,M2,No Registrado,,Incobrable,2025-07
+2025-01-02,Rocha,Préstamo Consumo,658.0,H2,No Registrado,,Cobrado,2025-01
+2025-01-02,Montevideo,Préstamo Hipotecario,117483.0,M2,Registrado,2025-01-09,En Mora,2025-01
+2025-05-02,Montevideo,Préstamo Consumo,1962.0,M1,No Registrado,,En Mora,2025-05
+2025-06-02,Tacuarembó,Préstamo Automotor,14441.0,T3,Registrado,2025-06-03,En Mora,2025-06
+2025-06-02,Montevideo,Préstamo Consumo,3753.0,M2,Registrado,2025-06-08,Cobrado,2025-06
+2025-06-02,Montevideo,Préstamo Hipotecario,244058.0,M2,Registrado,2025-06-09,Cobrado,2025-06
+2025-07-02,Canelones,Préstamo Hipotecario,241193.0,C1,Registrado,2025-07-05,En Mora,2025-07
+2025-09-02,Canelones,Préstamo Automotor,17723.0,C2,Registrado,2025-09-03,Cobrado,2025-09
+2025-03-03,Rivera,Préstamo Automotor,25135.0,R2,Registrado,2025-03-04,Cobrado,2025-03
+2025-04-03,Rocha,Préstamo Hipotecario,11913.0,H2,Registrado,2025-04-04,Cobrado,2025-04
+2025-06-03,Colonia,Préstamo Consumo,4704.0,O3,No Registrado,,Incobrable,2025-06
+2025-09-03,Canelones,Préstamo Consumo,4390.0,C2,No Registrado,,En Mora,2025-09
+2025-09-03,Río Negro,Préstamo Consumo,569.0,N2,No Registrado,,Cobrado,2025-09
+2025-10-03,San José,Préstamo Consumo,2045.0,J1,Registrado,2025-10-09,Incobrable,2025-10
+2025-11-03,Colonia,Préstamo Automotor,6526.0,O2,Registrado,2025-11-08,Incobrable,2025-11
+2025-11-03,Rocha,Préstamo Automotor,8091.0,H1,Registrado,2025-11-08,En Mora,2025-11
+2025-11-03,Río Negro,Préstamo Consumo,586.0,N1,Registrado,2025-11-10,En Mora,2025-11
+2025-12-03,Canelones,Préstamo Hipotecario,56581.0,C1,Registrado,2025-12-05,Incobrable,2025-12
+2025-12-03,Canelones,Préstamo Automotor,14340.0,C1,Registrado,2025-12-10,Cobrado,2025-12
+2025-12-03,Treinta y Tres,Préstamo Consumo,3416.0,Y1,Registrado,2025-12-10,Cobrado,2025-12
+2025-02-04,Río Negro,Préstamo Consumo,3137.0,N1,No Registrado,,Cobrado,2025-02
+2025-03-04,Salto,Préstamo Consumo,1196.0,S1,No Registrado,,Cobrado,2025-03
+2025-04-04,Tacuarembó,Préstamo Consumo,3014.0,T3,Registrado,2025-04-06,En Mora,2025-04
+2025-06-04,Canelones,Préstamo Consumo,2957.0,C1,Registrado,2025-06-11,Incobrable,2025-06
+2025-08-04,Cerro Largo,Préstamo Consumo,2575.0,E3,No Registrado,,Cobrado,2025-08
+2025-08-04,Montevideo,Préstamo Consumo,857.0,M1,No Registrado,,Cobrado,2025-08
+2025-09-04,Canelones,Préstamo Consumo,1074.0,C2,No Registrado,,Cobrado,2025-09
+2025-11-04,Montevideo,Préstamo Hipotecario,6315.0,M3,Registrado,2025-11-05,Incobrable,2025-11
+2025-12-04,Montevideo,Préstamo Consumo,1027.0,M3,Registrado,2025-12-11,Incobrable,2025-12
+2025-03-05,Tacuarembó,Préstamo Consumo,1799.0,T2,Registrado,2025-03-06,Incobrable,2025-03
+2025-08-05,Cerro Largo,Préstamo Consumo,2853.0,E2,No Registrado,,Cobrado,2025-08
+2025-08-05,Canelones,Préstamo Automotor,8556.0,C3,No Registrado,,En Mora,2025-08
+2025-12-05,Montevideo,Préstamo Automotor,10290.0,M2,Registrado,2025-12-10,En Mora,2025-12
+2025-01-06,Treinta y Tres,Préstamo Hipotecario,118417.0,Y3,Registrado,2025-01-11,Cobrado,2025-01
+2025-05-06,Lavalleja,Préstamo Consumo,1585.0,V1,No Registrado,,Cobrado,2025-05
+2025-06-06,Rivera,Préstamo Consumo,2104.0,R3,No Registrado,,Cobrado,2025-06
+2025-01-07,Colonia,Préstamo Consumo,2321.0,O3,Registrado,2025-01-13,Cobrado,2025-01
+2025-02-07,Montevideo,Préstamo Automotor,15482.0,M2,No Registrado,,Cobrado,2025-02
+2025-02-07,Maldonado,Préstamo Consumo,1768.0,A2,No Registrado,,Cobrado,2025-02
+2025-05-07,San José,Préstamo Consumo,4096.0,J2,No Registrado,,En Mora,2025-05
+2025-07-07,Salto,Préstamo Automotor,20503.0,S2,Registrado,2025-07-14,Cobrado,2025-07
+2025-08-07,Rocha,Préstamo Automotor,21199.0,H1,Registrado,2025-08-09,Cobrado,2025-08
+2025-10-07,Canelones,Préstamo Automotor,12423.0,C2,Registrado,2025-10-08,Cobrado,2025-10
+2025-10-07,Montevideo,Préstamo Consumo,4356.0,M2,No Registrado,,Cobrado,2025-10
+2025-10-07,Salto,Préstamo Automotor,9710.0,S2,No Registrado,,Cobrado,2025-10
+2025-10-07,Canelones,Préstamo Consumo,843.0,C2,No Registrado,,Cobrado,2025-10
+2025-11-07,Canelones,Préstamo Hipotecario,237922.0,C1,Registrado,2025-11-09,Cobrado,2025-11
+2025-11-07,Canelones,Préstamo Hipotecario,169639.0,C3,Registrado,2025-11-09,En Mora,2025-11
+2025-01-08,Salto,Préstamo Consumo,2481.0,S3,No Registrado,,Cobrado,2025-01
+2025-01-08,Montevideo,Préstamo Consumo,1224.0,M3,Registrado,2025-01-13,Cobrado,2025-01
+2025-05-08,Rivera,Préstamo Automotor,15672.0,R2,Registrado,2025-05-12,Incobrable,2025-05
+2025-07-08,Río Negro,Préstamo Consumo,2303.0,N3,Registrado,2025-07-15,Cobrado,2025-07
+2025-10-08,Rivera,Préstamo Automotor,19229.0,R3,Registrado,2025-10-09,En Mora,2025-10
+2025-01-09,Artigas,Préstamo Consumo,1733.0,I1,No Registrado,,Cobrado,2025-01
+2025-04-09,Durazno,Préstamo Consumo,3996.0,D3,No Registrado,,Cobrado,2025-04
+2025-05-09,Río Negro,Préstamo Consumo,4214.0,N2,No Registrado,,En Mora,2025-05
+2025-07-09,Canelones,Préstamo Consumo,579.0,C2,No Registrado,,Cobrado,2025-07
+2025-07-09,Rivera,Préstamo Consumo,2635.0,R2,No Registrado,,En Mora,2025-07
+2025-07-09,Montevideo,Préstamo Consumo,4007.0,M2,No Registrado,,Cobrado,2025-07
+2025-07-09,Salto,Préstamo Consumo,3629.0,S1,No Registrado,,Cobrado,2025-07
+2025-10-09,Montevideo,Préstamo Consumo,1599.0,M1,No Registrado,,Incobrable,2025-10
+2025-12-09,Canelones,Préstamo Consumo,1957.0,C3,No Registrado,,Cobrado,2025-12
+2025-12-09,Paysandú,Préstamo Consumo,4258.0,P3,No Registrado,,Cobrado,2025-12
+2025-12-09,Montevideo,Préstamo Consumo,3962.0,M1,Registrado,2025-12-16,Cobrado,2025-12
+2025-12-09,Maldonado,Préstamo Consumo,931.0,A2,No Registrado,,Cobrado,2025-12
+2025-01-10,Paysandú,Préstamo Hipotecario,169979.0,P1,Registrado,2025-01-12,Cobrado,2025-01
+2025-01-10,Paysandú,Préstamo Consumo,4037.0,P2,Registrado,2025-01-11,Cobrado,2025-01
+2025-04-10,Montevideo,Préstamo Consumo,4959.0,M3,Registrado,2025-04-14,En Mora,2025-04
+2025-09-10,Flores,Préstamo Consumo,3092.0,F1,No Registrado,,Cobrado,2025-09
+2025-10-10,Montevideo,Préstamo Consumo,810.0,M3,No Registrado,,Cobrado,2025-10
+2025-11-10,Durazno,Préstamo Automotor,25526.0,D3,Registrado,2025-11-11,En Mora,2025-11
+2025-12-10,Canelones,Préstamo Consumo,1804.0,C3,No Registrado,,En Mora,2025-12
+2025-02-11,San José,Préstamo Consumo,3435.0,J3,No Registrado,,Cobrado,2025-02
+2025-06-11,Montevideo,Préstamo Consumo,2346.0,M3,No Registrado,,Cobrado,2025-06
+2025-06-11,Montevideo,Préstamo Consumo,4219.0,M2,Registrado,2025-06-14,En Mora,2025-06
+2025-07-11,Canelones,Préstamo Hipotecario,192779.0,C2,Registrado,2025-07-13,En Mora,2025-07
+2025-08-11,Río Negro,Préstamo Consumo,4701.0,N2,Registrado,2025-08-18,En Mora,2025-08
+2025-08-11,Maldonado,Préstamo Consumo,2431.0,A2,No Registrado,,En Mora,2025-08
+2025-08-11,Cerro Largo,Préstamo Consumo,2329.0,E2,No Registrado,,Cobrado,2025-08
+2025-09-11,Salto,Préstamo Consumo,4443.0,S1,No Registrado,,Cobrado,2025-09
+2025-11-11,Montevideo,Préstamo Consumo,3826.0,M1,No Registrado,,Cobrado,2025-11
+2025-11-11,Colonia,Préstamo Automotor,28640.0,O3,Registrado,2025-11-18,En Mora,2025-11
+2025-11-11,Treinta y Tres,Préstamo Consumo,3295.0,Y3,Registrado,2025-11-17,Cobrado,2025-11
+2025-08-12,Colonia,Préstamo Consumo,2100.0,O1,Registrado,2025-08-19,Cobrado,2025-08
+2025-01-13,Canelones,Préstamo Consumo,3274.0,C2,Registrado,2025-01-20,En Mora,2025-01
+2025-02-13,Montevideo,Préstamo Consumo,3574.0,M2,No Registrado,,Cobrado,2025-02
+2025-02-13,Cerro Largo,Préstamo Automotor,3826.0,E1,Registrado,2025-02-17,Cobrado,2025-02
+2025-06-13,Rivera,Préstamo Consumo,1669.0,R2,Registrado,2025-06-20,Cobrado,2025-06
+2025-11-13,Maldonado,Préstamo Consumo,2066.0,A1,No Registrado,,Cobrado,2025-11
+2025-11-13,Montevideo,Préstamo Consumo,2440.0,M2,No Registrado,,Cobrado,2025-11
+2025-01-14,Tacuarembó,Préstamo Hipotecario,269940.0,T3,Registrado,2025-01-20,Cobrado,2025-01
+2025-02-14,Montevideo,Préstamo Automotor,3861.0,M2,Registrado,2025-02-19,Cobrado,2025-02
+2025-02-14,Treinta y Tres,Préstamo Hipotecario,63384.0,Y2,Registrado,2025-02-21,Cobrado,2025-02
+2025-02-14,Paysandú,Préstamo Consumo,4565.0,P3,Registrado,2025-02-21,Cobrado,2025-02
+2025-03-14,Durazno,Préstamo Consumo,2999.0,D2,No Registrado,,Cobrado,2025-03
+2025-04-14,Canelones,Préstamo Automotor,27836.0,C3,Registrado,2025-04-19,Cobrado,2025-04
+2025-05-14,Canelones,Préstamo Consumo,3189.0,C2,Registrado,2025-05-21,Incobrable,2025-05
+2025-05-14,Salto,Préstamo Consumo,743.0,S3,Registrado,2025-05-16,Cobrado,2025-05
+2025-05-14,Canelones,Préstamo Consumo,672.0,C2,No Registrado,,Cobrado,2025-05
+2025-07-14,Colonia,Préstamo Consumo,1069.0,O2,Registrado,2025-07-16,Cobrado,2025-07
+2025-07-14,Montevideo,Préstamo Consumo,2479.0,M3,Registrado,2025-07-20,Cobrado,2025-07
+2025-01-15,Florida,Préstamo Consumo,2290.0,L3,Registrado,2025-01-17,Incobrable,2025-01
+2025-04-15,Canelones,Préstamo Consumo,3798.0,C1,No Registrado,,Cobrado,2025-04
+2025-07-15,Tacuarembó,Préstamo Hipotecario,42903.0,T1,Registrado,2025-07-21,Cobrado,2025-07
+2025-08-15,Río Negro,Préstamo Automotor,5864.0,N3,Registrado,2025-08-20,Cobrado,2025-08
+2025-08-15,Montevideo,Préstamo Consumo,1538.0,M2,Registrado,2025-08-17,Cobrado,2025-08
+2025-09-15,Montevideo,Préstamo Consumo,1046.0,M1,No Registrado,,Cobrado,2025-09
+2025-09-15,Colonia,Préstamo Consumo,2789.0,O1,Registrado,2025-09-22,Incobrable,2025-09
+2025-09-15,Rivera,Préstamo Consumo,3555.0,R3,No Registrado,,En Mora,2025-09
+2025-10-15,Canelones,Préstamo Automotor,9818.0,C1,No Registrado,,En Mora,2025-10
+2025-06-16,Montevideo,Préstamo Consumo,4561.0,M1,Registrado,2025-06-20,Cobrado,2025-06
+2025-04-17,Maldonado,Préstamo Consumo,3876.0,A3,No Registrado,,Cobrado,2025-04
+2025-07-17,Florida,Préstamo Hipotecario,197238.0,L2,Registrado,2025-07-21,Cobrado,2025-07
+2025-09-17,Canelones,Préstamo Automotor,20462.0,C2,Registrado,2025-09-24,Cobrado,2025-09
+2025-09-17,Artigas,Préstamo Consumo,4286.0,I1,No Registrado,,Cobrado,2025-09
+2025-09-17,Durazno,Préstamo Automotor,9496.0,D2,No Registrado,,Cobrado,2025-09
+2025-10-17,Montevideo,Préstamo Consumo,1912.0,M2,No Registrado,,Cobrado,2025-10
+2025-10-17,Paysandú,Préstamo Consumo,3101.0,P2,Registrado,2025-10-22,Cobrado,2025-10
+2025-10-17,Canelones,Préstamo Hipotecario,76102.0,C1,Registrado,2025-10-21,Incobrable,2025-10
+2025-11-17,Montevideo,Préstamo Automotor,3673.0,M1,Registrado,2025-11-24,Cobrado,2025-11
+2025-11-17,Rocha,Préstamo Consumo,2521.0,H1,No Registrado,,Cobrado,2025-11
+2025-12-17,Canelones,Préstamo Hipotecario,101506.0,C2,Registrado,2025-12-23,Cobrado,2025-12
+2025-12-17,Tacuarembó,Préstamo Consumo,4384.0,T2,Registrado,2025-12-20,Cobrado,2025-12
+2025-02-18,Rivera,Préstamo Hipotecario,72690.0,R2,Registrado,2025-02-21,Cobrado,2025-02
+2025-03-18,Río Negro,Préstamo Consumo,942.0,N3,No Registrado,,Incobrable,2025-03
+2025-03-18,Florida,Préstamo Consumo,1328.0,L1,No Registrado,,Cobrado,2025-03
+2025-04-18,Canelones,Préstamo Consumo,4794.0,C2,No Registrado,,En Mora,2025-04
+2025-06-18,Salto,Préstamo Consumo,4430.0,S1,No Registrado,,Cobrado,2025-06
+2025-08-18,San José,Préstamo Consumo,794.0,J1,Registrado,2025-08-24,Cobrado,2025-08
+2025-11-18,Tacuarembó,Préstamo Automotor,3510.0,T2,Registrado,2025-11-22,Incobrable,2025-11
+2025-11-18,Maldonado,Préstamo Consumo,1771.0,A1,No Registrado,,Cobrado,2025-11
+2025-02-19,Montevideo,Préstamo Consumo,3418.0,M2,No Registrado,,Incobrable,2025-02
+2025-02-19,Río Negro,Préstamo Consumo,1966.0,N2,No Registrado,,Cobrado,2025-02
+2025-03-19,Lavalleja,Préstamo Consumo,3674.0,V2,Registrado,2025-03-20,Cobrado,2025-03
+2025-08-19,Lavalleja,Préstamo Consumo,4494.0,V1,No Registrado,,Cobrado,2025-08
+2025-08-19,Montevideo,Préstamo Automotor,7318.0,M3,Registrado,2025-08-24,En Mora,2025-08
+2025-09-19,Canelones,Préstamo Consumo,2307.0,C2,No Registrado,,Cobrado,2025-09
+2025-12-19,Tacuarembó,Préstamo Consumo,4213.0,T2,Registrado,2025-12-20,Cobrado,2025-12
+2025-12-19,Canelones,Préstamo Consumo,2627.0,C1,Registrado,2025-12-25,Cobrado,2025-12
+2025-03-20,Paysandú,Préstamo Consumo,4666.0,P1,No Registrado,,Cobrado,2025-03
+2025-03-20,Montevideo,Préstamo Consumo,3899.0,M1,No Registrado,,Cobrado,2025-03
+2025-05-20,Canelones,Préstamo Hipotecario,204110.0,C1,Registrado,2025-05-24,En Mora,2025-05
+2025-06-20,Canelones,Préstamo Automotor,9142.0,C1,Registrado,2025-06-26,Cobrado,2025-06
+2025-10-20,Montevideo,Préstamo Consumo,3338.0,M3,No Registrado,,Cobrado,2025-10
+2025-10-20,Montevideo,Préstamo Automotor,21272.0,M1,Registrado,2025-10-23,Incobrable,2025-10
+2025-02-21,Canelones,Préstamo Hipotecario,97393.0,C2,No Registrado,,Cobrado,2025-02
+2025-02-21,Treinta y Tres,Préstamo Consumo,4283.0,Y1,No Registrado,,Cobrado,2025-02
+2025-05-21,Colonia,Préstamo Consumo,2049.0,O2,No Registrado,,Cobrado,2025-05
+2025-11-21,Florida,Préstamo Consumo,2878.0,L2,No Registrado,,Cobrado,2025-11
+2025-04-22,Cerro Largo,Préstamo Consumo,4041.0,E2,Registrado,2025-04-27,Cobrado,2025-04
+2025-05-22,Durazno,Préstamo Consumo,3164.0,D2,No Registrado,,Cobrado,2025-05
+2025-05-22,Montevideo,Préstamo Consumo,3832.0,M1,No Registrado,,Cobrado,2025-05
+2025-05-22,Montevideo,Préstamo Consumo,3460.0,M3,No Registrado,,Cobrado,2025-05
+2025-08-22,Montevideo,Préstamo Hipotecario,17683.0,M2,Registrado,2025-08-24,Incobrable,2025-08
+2025-10-22,Cerro Largo,Préstamo Consumo,4948.0,E2,No Registrado,,Cobrado,2025-10
+2025-12-22,Rocha,Préstamo Automotor,13683.0,H3,Registrado,2025-12-26,Cobrado,2025-12
+2025-12-22,Montevideo,Préstamo Consumo,4985.0,M1,No Registrado,,Cobrado,2025-12
+2025-12-22,Canelones,Préstamo Automotor,2550.0,C3,Registrado,2025-12-29,Cobrado,2025-12
+2025-01-23,Cerro Largo,Préstamo Consumo,4878.0,E2,No Registrado,,Cobrado,2025-01
+2025-04-23,Rocha,Préstamo Consumo,1961.0,H1,No Registrado,,Cobrado,2025-04
+2025-07-23,Cerro Largo,Préstamo Consumo,3057.0,E2,Registrado,2025-07-30,Cobrado,2025-07
+2025-09-23,Treinta y Tres,Préstamo Consumo,4717.0,Y2,No Registrado,,Cobrado,2025-09
+2025-09-23,Montevideo,Préstamo Consumo,929.0,M2,No Registrado,,Cobrado,2025-09
+2025-02-24,Maldonado,Préstamo Consumo,3171.0,A2,No Registrado,,Cobrado,2025-02
+2025-04-24,Maldonado,Préstamo Hipotecario,292075.0,A3,Registrado,2025-04-29,Cobrado,2025-04
+2025-04-24,Colonia,Préstamo Consumo,3485.0,O3,No Registrado,,Cobrado,2025-04
+2025-07-24,Paysandú,Préstamo Consumo,3621.0,P2,No Registrado,,En Mora,2025-07
+2025-09-24,Artigas,Préstamo Automotor,9763.0,I2,Registrado,2025-09-29,Cobrado,2025-09
+2025-10-24,Montevideo,Préstamo Consumo,885.0,M2,No Registrado,,Cobrado,2025-10
+2025-10-24,Colonia,Préstamo Consumo,3191.0,O3,No Registrado,,Cobrado,2025-10
+2025-10-24,Montevideo,Préstamo Consumo,2884.0,M1,No Registrado,,En Mora,2025-10
+2025-11-24,Tacuarembó,Préstamo Consumo,4266.0,T3,No Registrado,,Cobrado,2025-11
+2025-11-24,Rivera,Préstamo Consumo,2859.0,R1,Registrado,2025-11-30,En Mora,2025-11
+2025-11-24,Río Negro,Préstamo Hipotecario,215753.0,N1,No Registrado,,En Mora,2025-11
+2025-12-24,Florida,Préstamo Consumo,951.0,L1,No Registrado,,Cobrado,2025-12
+2025-04-25,Paysandú,Préstamo Consumo,2415.0,P2,No Registrado,,Cobrado,2025-04
+2025-06-25,Salto,Préstamo Hipotecario,149032.0,S1,Registrado,2025-06-30,En Mora,2025-06
+2025-06-25,Rocha,Préstamo Consumo,3065.0,H2,Registrado,2025-06-29,Cobrado,2025-06
+2025-07-25,Cerro Largo,Préstamo Hipotecario,158056.0,E2,Registrado,2025-07-31,Cobrado,2025-07
+2025-07-25,Flores,Préstamo Hipotecario,10180.0,F3,Registrado,2025-07-27,Cobrado,2025-07
+2025-08-25,Paysandú,Préstamo Consumo,2543.0,P3,No Registrado,,Cobrado,2025-08
+2025-09-25,Montevideo,Préstamo Hipotecario,123283.0,M3,Registrado,2025-10-01,Cobrado,2025-09
+2025-11-25,Canelones,Préstamo Consumo,2387.0,C1,Registrado,2025-11-29,Cobrado,2025-11
+2025-02-26,Río Negro,Préstamo Consumo,717.0,N1,Registrado,2025-03-01,Cobrado,2025-02
+2025-03-26,Montevideo,Préstamo Consumo,3854.0,M1,Registrado,2025-03-28,Cobrado,2025-03
+2025-03-26,Maldonado,Préstamo Consumo,4243.0,A2,Registrado,2025-03-28,Cobrado,2025-03
+2025-06-26,Durazno,Préstamo Automotor,13688.0,D2,Registrado,2025-07-02,Cobrado,2025-06
+2025-08-26,Montevideo,Préstamo Consumo,1588.0,M2,Registrado,2025-09-02,En Mora,2025-08
+2025-09-26,Colonia,Préstamo Automotor,5786.0,O1,Registrado,2025-09-29,Cobrado,2025-09
+2025-11-26,Rocha,Préstamo Automotor,18724.0,H2,Registrado,2025-12-03,Cobrado,2025-11
+2025-11-26,Maldonado,Préstamo Automotor,24160.0,A2,Registrado,2025-12-03,En Mora,2025-11
+2025-11-26,Canelones,Préstamo Consumo,2683.0,C1,Registrado,2025-11-27,En Mora,2025-11
+2025-12-26,Florida,Préstamo Automotor,19796.0,L3,No Registrado,,En Mora,2025-12
+2025-01-27,Canelones,Préstamo Consumo,4178.0,C1,No Registrado,,En Mora,2025-01
+2025-01-27,Rocha,Préstamo Consumo,586.0,H3,No Registrado,,Cobrado,2025-01
+2025-02-27,Colonia,Préstamo Automotor,10958.0,O3,Registrado,2025-03-03,Incobrable,2025-02
+2025-02-27,Montevideo,Préstamo Automotor,5614.0,M2,Registrado,2025-02-28,Cobrado,2025-02
+2025-03-27,Canelones,Préstamo Automotor,21123.0,C2,Registrado,2025-03-31,Cobrado,2025-03
+2025-03-27,Colonia,Préstamo Consumo,2556.0,O1,Registrado,2025-03-28,En Mora,2025-03
+2025-05-27,Montevideo,Préstamo Automotor,13020.0,M1,Registrado,2025-06-02,Cobrado,2025-05
+2025-10-27,Flores,Préstamo Automotor,18376.0,F1,Registrado,2025-10-31,Cobrado,2025-10
+2025-10-27,Canelones,Préstamo Consumo,4641.0,C2,No Registrado,,Cobrado,2025-10
+2025-02-28,Río Negro,Préstamo Consumo,1680.0,N3,No Registrado,,Cobrado,2025-02
+2025-07-28,Canelones,Préstamo Automotor,4018.0,C2,Registrado,2025-08-03,Cobrado,2025-07
+2025-11-28,Durazno,Préstamo Consumo,1169.0,D3,No Registrado,,Cobrado,2025-11
+2025-01-29,Montevideo,Préstamo Automotor,25343.0,M1,Registrado,2025-02-05,Incobrable,2025-01
+2025-05-29,Soriano,Préstamo Consumo,2856.0,SO3,Registrado,2025-06-02,En Mora,2025-05
+2025-05-29,Colonia,Préstamo Consumo,3465.0,O2,No Registrado,,Cobrado,2025-05
+2025-07-29,Montevideo,Préstamo Hipotecario,106803.0,M1,Registrado,2025-08-02,Cobrado,2025-07
+2025-09-29,Montevideo,Préstamo Consumo,2721.0,M1,Registrado,2025-10-03,Incobrable,2025-09
+2025-12-29,Tacuarembó,Préstamo Automotor,3691.0,T2,Registrado,2025-12-30,Cobrado,2025-12
+2025-12-29,Canelones,Préstamo Consumo,2067.0,C3,Registrado,2026-01-03,Cobrado,2025-12
+2025-01-30,San José,Préstamo Consumo,3064.0,J3,No Registrado,,Cobrado,2025-01
+2025-01-30,Montevideo,Préstamo Hipotecario,103228.0,M3,Registrado,2025-02-04,Cobrado,2025-01
+2025-04-30,Montevideo,Préstamo Consumo,2759.0,M2,No Registrado,,Cobrado,2025-04
+2025-06-30,San José,Préstamo Consumo,3014.0,J1,Registrado,2025-07-07,Cobrado,2025-06
+2025-10-30,Canelones,Préstamo Automotor,12245.0,C2,Registrado,2025-10-31,Cobrado,2025-10
+2025-12-30,Salto,Préstamo Consumo,4117.0,S3,No Registrado,,Cobrado,2025-12
+2025-12-30,Montevideo,Préstamo Automotor,20053.0,M1,Registrado,2025-12-31,Incobrable,2025-12
+2025-03-31,Rivera,Préstamo Hipotecario,223986.0,R2,Registrado,2025-04-04,Cobrado,2025-03
